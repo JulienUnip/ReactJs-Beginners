@@ -7,10 +7,10 @@ class Parent extends React.Component {
       super(props);
       this.state = {
         dataFromChild: '',
-        childName: "Julien Moratalla",
+        childName: "Toto TotoLastname",
         childs: [
-          {firstname: "Julien", lastname: "Moratalla"},
-          {firstname: "Julien", lastname: "Aoratalla"},
+          {firstname: "Toto", lastname: "TotoLastname"},
+          {firstname: "Titi", lastname: "TitiLastname"},
         ],
         fakeDatas: []
       };
